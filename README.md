@@ -1,7 +1,5 @@
-Thanks for providing the exact badge images! Here’s a revised version of your README, using your preferred badge styles and links, tailored for a RapidMiner + Excel project with all the requested professional sections, and absolutely NO Python references.
-
-````markdown name=README.md
-# 2023 PA Elections Prediction Project
+# 🗳️ 2023 PA Elections Prediction Project
+**Predictive Analytics Platform for State-Level Elections**
 
 ![RapidMiner](https://img.shields.io/badge/RapidMiner-Studio-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -9,6 +7,7 @@ Thanks for providing the exact badge images! Here’s a revised version of your 
 ![Repo Size](https://img.shields.io/github/repo-size/IhwaHussain/Gubernatorial-Election-Model)
 
 ---
+
 
 ## Overview
 
