@@ -9,8 +9,6 @@
 ---
 
 https://gubernatorial-election-model.replit.app/
-![Election Analytics Dashboard]
-<img src="blob:chrome-untrusted://media-app/a28e6608-9208-4159-bd18-76ffa1b6b581" alt="Screenshot 2026-04-20 10.11.30 AM.png"/>
 
 ## Overview
 
