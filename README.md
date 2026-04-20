@@ -9,6 +9,7 @@
 ---
 
 https://gubernatorial-election-model.replit.app/
+![Election Analytics Dashboard](dashboard-preview.png)
 ## Overview
 
 This project leverages RapidMiner Studio and Microsoft Excel to predict the 2023 Pennsylvania state election outcomes. The entire data analysis, modeling, and result generation workflow are implemented in RapidMiner—no Python or scripting required. Initial data cleaning and exploration are performed in Excel to ensure high-quality input for the predictive modeling process.
